@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Informer</string>
+    <string name="permission_not_granted_title">Permission not granted</string>
+    <string name="permission_not_granted_message">This app requires this permission to work.\nApp will now close</string>
+    <string name="please_wait">Please wait</string>
+    <string name="reading_database_message">Reading SMS database</string>
+    <string name="server_ip_address_hint">Enter server IP address</string>
+    <string name="server_port_number_hint">Enter server port number</string>
+    <string name="ok">OK</string>
+    <string name="connecting_to_server_title">Connecting to server</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
